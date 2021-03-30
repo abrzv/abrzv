@@ -14,7 +14,7 @@ Also, i have a little experience of writing in JS and c#, but it isn't so import
 
 ## I like... 💥
 
-Tea, apple pies and finally...
+Tea, pies and finally...
 
 LOLIS!!!
 
