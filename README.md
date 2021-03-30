@@ -17,4 +17,4 @@ Also, i have a little experience of writing in JS and c#, but it isn't so import
 Tea, apple pies and finally...
 
 LOLIS!!!
-![Renge](https://steamuserimages-a.akamaihd.net/ugc/956339791834622984/C885C8D9765451BF5F5AA96B770B812F5710DF8E/, "Лоля флексит")
+![Renge](https://github.com/abrzv/abrzv/blob/main/1534572621_giphy.gif, "Лоля флексит")
