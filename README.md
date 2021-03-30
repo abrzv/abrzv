@@ -12,3 +12,9 @@ Also, i have a little experience of writing in JS and c#, but it isn't so import
 - [Kardinal](https://vk.com/kardinal_sys)
 - [Friends](https://vk.com/sparta.r4iders)
 
+## I like...
+
+Tea, apple pies and finally...
+
+LOLIS!!!
+![](http://abrzv.xyz/1534572621_giphy.gif, "Лоля флексит")
