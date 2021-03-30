@@ -18,4 +18,4 @@ Tea, apple pies and finally...
 
 LOLIS!!!
 
-![Renge](https://github.com/abrzv/abrzv/blob/main/1534572621_giphy.gif "Лоля флексит")
+![Renge](http://abrzv.xyz/1534572621_giphy.gif "Лоля покачивается")
