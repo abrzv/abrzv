@@ -1,16 +1,15 @@
-### Hi there 👋
+# Nyanpasuu ✋
 
-<!--
-**abrzv/abrzv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Yurii, I'm coder from russia. 
+___________
+My experience of writing in python is about 1.5 years, and on c/c++ - about 0.6 years.
+Also, i have a little experience of writing in JS and c#, but it isn't so important.
 
-Here are some ideas to get you started:
+## Links ☎
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [ ] [My site](http://abrzv.xyz)
+- [ ] [My vk](https://vk.com/async.raider)
+- [ ] [My qiwi](http://qiwi.com/n/ABRZV)
+- [ ] [Kardinal](https://vk.com/kardinal_sys)
+- [ ] [Friends](https://vk.com/sparta.r4iders)
+
