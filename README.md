@@ -1,7 +1,7 @@
 # Nyanpasuu ✋
 
 My name is Yurii, I'm coder from russia. 
-My experience of writing in python is about 1.5 years, and on c/c++ - about 0.6 years.
+My experience of writing in python is about 2 years, and on c/c++ - about a year.
 Also, i have a little experience of writing in JS and c#, but it isn't so important.
 
 ## Links ☎
