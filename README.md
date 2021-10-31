@@ -6,8 +6,6 @@ Also, i have a little experience of writing in JS and c#, but it isn't so import
 
 ## Links ☎
 
-- [My site](http://abrzv.xyz)
-- [My vk](https://vk.com/async.raider)
 - [My qiwi](http://qiwi.com/n/ABRZV)
 - [Kardinal](https://vk.com/kardinal_sys)
 
